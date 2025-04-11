@@ -1,4 +1,4 @@
-# intelligent_models_project
+# Intelligent_models_project
 
 ## Project: Mouse, Cat, and Cheese Simulation
 
